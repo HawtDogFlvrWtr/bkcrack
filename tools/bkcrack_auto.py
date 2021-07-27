@@ -5,7 +5,7 @@ import os
 import subprocess
 
 if len(sys.argv) < 3:
-	print("You're missing a file path to the zip files")
+	print("You have too few arguments")
 	print("./bkcrack_auto.py <path_to_bkcrack> <path_to_zips>")
 elif len(sys.argv) > 3:
 	print("You have too many arguments")
