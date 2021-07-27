@@ -1,5 +1,10 @@
 #!/bin/env python
-
+#
+#
+# Created by Christopher Phipps hawtdogflvrwtr@gmail.com
+#
+# This will likely only work with linux and osx as it uses unzip to determine zip file structure
+#
 import sys
 import os
 import subprocess
